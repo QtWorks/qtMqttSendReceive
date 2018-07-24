@@ -29,7 +29,7 @@ Note : to convert hex data to base 64 : http://tomeko.net/online_tools/hex_to_ba
 
 ## 1. Console TTN :
 
-- Create an application "leds control"
+- Create an application "leds-control"
 - In this application, create a device "leds-1"
 - In Payload Formats tab, adjust the decoder function :
 
